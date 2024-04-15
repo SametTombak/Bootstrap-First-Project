@@ -1,0 +1,21 @@
+.red
+{
+    color:red;
+    
+}
+.navbarrenk
+{
+    background-color: rgb(32, 9, 9);
+   color:white;
+}
+
+.navbar-nav a 
+{
+    color:white;
+}
+body{
+    background-color: #E9ECEF ;
+}
+.mor{
+    color:purple;
+}
